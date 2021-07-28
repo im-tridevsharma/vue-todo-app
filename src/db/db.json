@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "fullname": "Tridev Sharma",
+      "email": "sendmailtotridev@gmail.com",
+      "username": "imtridevsharma",
+      "password": "1111",
+      "_token": "dG9rZW5fMV9oOHdraTY0OWxpdA=="
+    },
+    {
+      "id": 2,
+      "fullname": "Keshav Jha",
+      "email": "keshav@gmail.com",
+      "username": "keshav",
+      "password": "12345",
+      "_token": "dG9rZW5fMl9maXZpMHZ0N3J4Yw=="
+    }
+  ],
+  "tasks": [
+    {
+      "id": "rmqllo0dabs",
+      "title": "Adding first task",
+      "userId": "1",
+      "isDone": true,
+      "isPending": false,
+      "createdAt": "Wed Jul 28 2021"
+    },
+    {
+      "id": "0zautqhp492q",
+      "title": "Osm todo app using vue",
+      "userId": "1",
+      "isDone": true,
+      "isPending": false,
+      "createdAt": "Wed Jul 28 2021"
+    },
+    {
+      "id": "sz1hgau9ve",
+      "title": "Vue is really an osm js framework!",
+      "userId": "1",
+      "isDone": true,
+      "isPending": false,
+      "createdAt": "Wed Jul 28 2021"
+    }
+  ]
+}
